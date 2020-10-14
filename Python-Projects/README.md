@@ -1,9 +1,9 @@
 # <ins>Data Science Project Brief</ins>    
 ### <ins>Uber</ins>:    
 The project is based on the trips made by Uber drivers. Different aspects of the trip are analysed by using different functions in Python.  
-Codebook:Uber Drive.ipynb  
-Folder:Uber Drive Analysis   
-Skills and Tools: Python Functions, Data Interpretation
+* Codebook:Uber Drive.ipynb  
+* Folder:Uber Drive Analysis   
+* Skills and Tools: Python Functions, Data Interpretation
   
 ### <ins>Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data</ins>:  
 The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data, University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies.  
