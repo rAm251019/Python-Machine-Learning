@@ -1,4 +1,4 @@
-##**Data Science Project Brief**
+**Data Science Project Brief**  
 1)Uber:    
 The project is based on the trips made by Uber drivers. Different aspects of the trip are analysed by using different functions in Python.  
 Codebook:Uber Drive.ipynb  
@@ -42,9 +42,9 @@ Documentation: RamKishore_ML_21062020.pdf
 Folder:ML & NLP  
 Skills and Tools: Text Mining Analytics, Support Vector Machine - K Nearest Neighbour - Naive Bayes, Ensemble Techniques, Logistic Regression - Linear Discriminant Analysis
 
-7)Built a model to Forecast monthly sales of Wine for certain Wine Estate for the next 12 month:
-Analyzed historical monthly sales data of a company. Created multiple forecast models for two different products of a particular Wine Estate and recommended the optimum forecasting model to predict monthly sales for the next 12 months along with appropriate lower and upper confidence limits
-Codebook:RamKishore_TimeSeries_Project.ipynb
-Documentation:RamKishore_TimeSeries_13092020.pdf
-Folder:Time Series
-Skills and Tools:Exploratory Data Analysis for Time Series Data, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
+7)Built a model to Forecast monthly sales of Wine for certain Wine Estate for the next 12 month:  
+Analyzed historical monthly sales data of a company. Created multiple forecast models for two different products of a particular Wine Estate and recommended the optimum   forecasting model to predict monthly sales for the next 12 months along with appropriate lower and upper confidence limits  
+Codebook:RamKishore_TimeSeries_Project.ipynb  
+Documentation:RamKishore_TimeSeries_13092020.pdf  
+Folder:Time Series  
+Skills and Tools:Exploratory Data Analysis for Time Series Data, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models  
