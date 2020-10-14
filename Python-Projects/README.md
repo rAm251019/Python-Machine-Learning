@@ -1,8 +1,8 @@
-**Data Science Project Brief**  
+# Data Science Project Brief    
 1)Uber:    
 The project is based on the trips made by Uber drivers. Different aspects of the trip are analysed by using different functions in Python.  
 Codebook:Uber Drive.ipynb  
-Folder:Uber Drive Analysis 
+Folder:Uber Drive Analysis   
 Skills and Tools: Python Functions, Data Interpretation
   
 2)Used different statistical measures to draw inferences of 3 different case studies:  
