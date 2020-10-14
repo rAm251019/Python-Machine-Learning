@@ -5,21 +5,21 @@ Codebook:Uber Drive.ipynb
 Folder:Uber Drive Analysis   
 Skills and Tools: Python Functions, Data Interpretation
   
-### Used different statistical measures to draw inferences of 3 different case studies:  
+### Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data:  
 The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data, University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies.  
 Codebook: A&B Shingles.ipynb,Survey.ipynb,Wholesale.ipynb  
 Documentation: RamKishore_SMDMProject_26012020.pdf  
 Folder: Advanced Statistics  
 Skills and Tools: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
-### Used Analysis of Variance and Principal Component Analysis to analyse 2 different case studies:
+### Drug Analysis using ANOVA and Principal Component Analysis on College Admissions Data:  
 The project involved drawing inferences from 2 case studies, namely - Fever, Education - Post 12th Standard. The concepts of Exploratory Data Analysis, Analysis of Variance and Principal Component Analysis are used to draw inferences from these case studies.  
 Codebook: Education-Post 12th std.ipynb,Fever.ipynb  
 Documentation: RamKishore_ASProject_01032020.pdf  
 Folder: Advanced Statistics  
 Skills and Tools: ANOVA, PCA, EDA
   
-### Used Data Mining Techniques to analyse 2 different case studies:  
+### Bank Customer Segmentation and Insurance Claim Prediction:  
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance. The concepts of Clustering, CART, Random Forest, Artificial Neural Network are used to draw inferences from these case studies. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.  
 Codebook1:Bank Marketing.ipynb  
 Folder:Unsupervised Learning  
